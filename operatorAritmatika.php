@@ -1,6 +1,6 @@
 <?php
 
-$a = 5;
+$a = 30;
 $b = 2;
 
 //Penjumlahan
